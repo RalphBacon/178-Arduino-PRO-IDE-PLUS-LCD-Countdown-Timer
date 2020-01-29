@@ -1,4 +1,4 @@
-# Arduino PRO IDE PLUS LCD Countdown Timer (with Rotary Encoder)
+# Arduino PRO IDE (and LCD Countdown Timer with Rotary Encoder)
 Sneak peek at the forthcoming Arduino PRO IDE plus a simple LCD Rotary Encoder Countdown Timer
 
 See https://youtube.com/ralphbacon video #178  
@@ -50,13 +50,13 @@ https://theia-ide.org/
 Github for eclipse-theia  
 https://github.com/eclipse-theia/theia
 
-Arduino-LED library for all Arduino versions by gmarty2000  
+**Arduino-LED library** for all Arduino versions by gmarty2000  
 https://github.com/gmarty2000/arduino-LED/wiki  
 
-Eclipse Sloeber by Jan Baeyens  
+**Eclipse Sloeber** by Jan Baeyens  
 https://eclipse.baeyens.it/
 
-Current Arduino IDE version now 1.8.11 (Jan 2020)  
+Current **Arduino IDE** version now **1.8.11** (Jan 2020)  
 https://www.arduino.cc/en/Main/Software  
 
 ### List of all my videos
@@ -71,18 +71,18 @@ https://www.banggood.com/3pcs-LCD1602-LCD-Shell-For-1602-BlueYellow-And-I2C-1602
 The **LCD case** I use for **Benny's Cat Run** UK supplier worldwide  
 https://www.tindie.com/products/pancalculus/20x4-lcd-case-for-arduino-unomega-pi-zero/
 
-KY-040 Rotary Encoder Module less than $1.50  
+KY-040 **Rotary Encoder** Module less than $1.50  
 https://www.banggood.com/KY-040-Rotary-Decoder-Encoder-Module-AVR-PIC-p-914010.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-You need one of these:  
+#### You need one of these:  
 **LCD Display Module** (1602 Character) **Blue** Backlight $2.82  
 https://www.banggood.com/1Pc-1602-Character-LCD-Display-Module-Blue-Backlight-p-978160.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-AND one of these:
+#### AND one of these:
 I2C backpacks $1.51 (just solder straight onto the LCD, child's play)  
 https://www.banggood.com/IIC-I2C-TWI-SP-Serial-Interface-Port-Module-5V-1602-LCD-Adapter-p-80365.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
+If you like this video **please give it a thumbs up**, share it and if you're not already subscribed **please consider doing so** and joining me on my Arduinite journey
 
 My channel, GitHub and blog are here:  
 \------------------------------------------------------------------  
