@@ -1,11 +1,11 @@
 # Arduino PRO IDE (and LCD Countdown Timer with Rotary Encoder)
 Sneak peek at the forthcoming Arduino PRO IDE plus a simple LCD Rotary Encoder Countdown Timer
 
-See https://youtube.com/ralphbacon video #178  
-Direct Video Link: https://youtu.be/JJ94EWX3Td4  
+### See https://youtube.com/ralphbacon video #178  
+#### Direct Video Link: https://youtu.be/JJ94EWX3Td4  
 
-First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 10-pieces just $30.
-PCB Prototyping the easy way - see my video #129 for Hands-On details.
+### First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 10-pieces just $30.
+#### PCB Prototyping the easy way - see my video #129 for Hands-On details.
 ```
 Why Buy Your Printed Circuit Boards From PCBWay?  
   * Prototype Fab with 24 hours Express  
@@ -74,11 +74,11 @@ https://www.tindie.com/products/pancalculus/20x4-lcd-case-for-arduino-unomega-pi
 KY-040 **Rotary Encoder** Module less than $1.50  
 https://www.banggood.com/KY-040-Rotary-Decoder-Encoder-Module-AVR-PIC-p-914010.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-#### You need one of these:  
+### You need one of these:  
 **LCD Display Module** (1602 Character) **Blue** Backlight $2.82  
 https://www.banggood.com/1Pc-1602-Character-LCD-Display-Module-Blue-Backlight-p-978160.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-#### AND one of these:
+### AND one of these:
 I2C backpacks $1.51 (just solder straight onto the LCD, child's play)  
 https://www.banggood.com/IIC-I2C-TWI-SP-Serial-Interface-Port-Module-5V-1602-LCD-Adapter-p-80365.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
